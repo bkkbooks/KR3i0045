@@ -1,0 +1,41 @@
+canonical_identifier: bkk:krp/KR3i0045/v1
+canonical_location: https://kanripo.org/bkk/KR3i0045/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 師曠禽經一卷
+  identifiers:
+    krp: KR3i0045
+  tags:
+    tls-dates: dat04500
+    kr-categories: KR3i
+  source:
+    repository: tls-texts
+    path: data/tls/KR3i0045.xml
+  edition:
+    short: bkk
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+- short: krp
+assets:
+  parts:
+  - {seq: 1, filename: KR3i0045_001.yaml, hash: 'sha256:211c4c9fa1d51fa3ffbebc467061ce20bb58a133d7608778e504e6a6a2230741'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3i0045_001.markers.yaml, hash: 'sha256:a951bbf597cf4df529db5ec8da1610480eaa33f3fce4ae72ad8bfbe8cea130fe'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3i0045_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 3229
+  label: 師曠禽經
+  type: section
+  level: 1
+hash: sha256:460d04ec0e7913a189d5179b3b20e8126ea191b37e3a61a0423648b4778e4ae8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

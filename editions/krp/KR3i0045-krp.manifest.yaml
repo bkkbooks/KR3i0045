@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR3i0045/krp/v1
+canonical_location: https://kanripo.org/bkk/KR3i0045/krp/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 禽經
+  date: '2015-08-24 23:18:51.907696'
+  source:
+    repository: kanripo
+    path: KR3i0045
+  base_edition: WYG
+  edition:
+    short: krp
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3i0045_000-krp.yaml, hash: 'sha256:aac1de22dffc087ec4cc6804c07ec56f73123356e0a752797e23cfb049d3972b'}
+  - {seq: 1, filename: KR3i0045_001-krp.yaml, hash: 'sha256:c05cf2791b4fb7332555484e6677f5aa2fe27e244eb3b720a3df5e60dd9bbcce'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3i0045_000-krp.markers.yaml, hash: 'sha256:a70606afa787ee06b93f67466886d708e5d8f5d607bba5ab42ffb8e34ad84bdd'}
+  - {seq: 1, role: markers, filename: assets/KR3i0045_001-krp.markers.yaml, hash: 'sha256:999dd35a3921894e4dce492cfb3676570ebc9127dcbaa104670eae2838b12825'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3i0045_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 1037
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3i0045_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 3232
+  label: 禽經
+  type: section
+  level: 1
+hash: sha256:aad5174c38b40fabe013be845ede20a2e2fd326f1f2f653ed2716069dd5b95a2
