@@ -21,9 +21,9 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR3i0045_001.yaml, hash: 'sha256:211c4c9fa1d51fa3ffbebc467061ce20bb58a133d7608778e504e6a6a2230741'}
+  - {seq: 1, filename: KR3i0045_001.yaml, hash: 'sha256:913035850b759926932ac36ceb5886890193fc90e7e3c7a72a449a3e346b1f41'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3i0045_001.markers.yaml, hash: 'sha256:a951bbf597cf4df529db5ec8da1610480eaa33f3fce4ae72ad8bfbe8cea130fe'}
+  - {seq: 1, role: markers, filename: assets/KR3i0045_001.markers.yaml, hash: 'sha256:07fd8e98dff3a1cd5ae7c4d5541e116c4ea65c5141bf5de4a1fb3e50eae1bf59'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,7 +35,4 @@ table_of_contents:
   label: 師曠禽經
   type: section
   level: 1
-hash: sha256:460d04ec0e7913a189d5179b3b20e8126ea191b37e3a61a0423648b4778e4ae8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:726fc7a2367d217bb5762e891b73b31a88ef9b3e27f0df65302afcd6c165cf14
