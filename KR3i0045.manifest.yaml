@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3i0045/v1
 canonical_location: https://kanripo.org/bkk/KR3i0045/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 師曠禽經一卷
   identifiers:
@@ -21,9 +21,9 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR3i0045_001.yaml, hash: 'sha256:913035850b759926932ac36ceb5886890193fc90e7e3c7a72a449a3e346b1f41'}
+  - {seq: 1, filename: KR3i0045_001.yaml, hash: 'sha256:1bfb24cbdc633b349a4ef73b271fbb81136c3577906bccc679fd0f56bada6283'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3i0045_001.markers.yaml, hash: 'sha256:07fd8e98dff3a1cd5ae7c4d5541e116c4ea65c5141bf5de4a1fb3e50eae1bf59'}
+  - {seq: 1, role: markers, filename: assets/KR3i0045_001.markers.yaml, hash: 'sha256:ede46fe589596f1c7f66d005b442ec45e35cb000d7fbc034f7b705f4140a3117'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,4 +35,7 @@ table_of_contents:
   label: 師曠禽經
   type: section
   level: 1
-hash: sha256:726fc7a2367d217bb5762e891b73b31a88ef9b3e27f0df65302afcd6c165cf14
+hash: sha256:2683621170c2fb9803dcbd5d6b0902c99ce18b24152ecd5b9ac9fb6af9a4d3bc
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
