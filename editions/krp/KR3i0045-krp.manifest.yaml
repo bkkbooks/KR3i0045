@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR3i0045_000-krp.yaml, hash: 'sha256:aac1de22dffc087ec4cc6804c07ec56f73123356e0a752797e23cfb049d3972b'}
   - {seq: 1, filename: KR3i0045_001-krp.yaml, hash: 'sha256:c05cf2791b4fb7332555484e6677f5aa2fe27e244eb3b720a3df5e60dd9bbcce'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3i0045_000-krp.markers.yaml, hash: 'sha256:a70606afa787ee06b93f67466886d708e5d8f5d607bba5ab42ffb8e34ad84bdd'}
-  - {seq: 1, role: markers, filename: assets/KR3i0045_001-krp.markers.yaml, hash: 'sha256:999dd35a3921894e4dce492cfb3676570ebc9127dcbaa104670eae2838b12825'}
+  - {seq: 0, role: markers, filename: assets/KR3i0045_000-krp.markers.yaml, hash: 'sha256:f3aea2221c3e46cc020afca3dac9ae0830545d97ab0595f52b5b9b259513e13a'}
+  - {seq: 1, role: markers, filename: assets/KR3i0045_001-krp.markers.yaml, hash: 'sha256:ea4c4433b43c3d36677c0d474806dd7f0ee0c96a2d3caf1ae61073b0e4d969ef'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 禽經
   type: section
   level: 1
-hash: sha256:aad5174c38b40fabe013be845ede20a2e2fd326f1f2f653ed2716069dd5b95a2
+hash: sha256:6e3476934159b9dbbd67605501fb18f8f4ccb517c3884162613d029c181b8704
